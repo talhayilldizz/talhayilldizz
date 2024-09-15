@@ -1,6 +1,6 @@
 <img align ="center" width="1920px" height="300px" src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif">
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate Engineering candidate in Turkey</h3>
+<h3 align="center">A passionate Engineer candidate in Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">	
 
 
