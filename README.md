@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **C and C#**
 
-- 🌱 I’m currently learning **C, C#, MySQL**
+- 🌱 I’m currently learning **C, Python**
 
 - 👯 I’m looking to collaborate on **Freelancing**
 
