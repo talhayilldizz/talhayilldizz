@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate Engineer candidate in Turkey</h3>
-
+<h1 align="center">Hi, I'm Talha</h1>
 
 
 
