@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tr.linkedin.com/in/talha-y%C4%B1ld%C4%B1z-321783253?trk=people-guest_people_search-card" height="30" width="40" /><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkdn" width="40" height="40"/></a>
-<a href="https://www.kaggle.com/talhayldz" height="30" width="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/1200px-Kaggle_Logo.svg.png" alt="kaggle" width="60" height="40"/></a>
+<a href="https://www.kaggle.com/talhayldz" height="30" width="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/1200px-Kaggle_Logo.svg.png" alt="kaggle" width="70" height="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
